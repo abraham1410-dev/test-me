@@ -141,7 +141,7 @@ const AggridExample = () => {
       <Typography.Title level={3}>Aggrid</Typography.Title>
       <div className="w-full flex justify-end">
         <div>
-          <Button type="primary" onClick={handleOpenAddModal}>
+          <Button type="link" onClick={handleOpenAddModal}>
             Add
           </Button>
         </div>
